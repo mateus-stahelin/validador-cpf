@@ -1,7 +1,7 @@
 # :scroll: [Validador de CPF](https://mateus-stahelin.github.io/validador-cpf/)
 
 <p align="center">
-  <a href="## :floppy_disk: Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="##Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="##Notes">Notes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="##Author">Author</a>&nbsp;&nbsp;&nbsp;
