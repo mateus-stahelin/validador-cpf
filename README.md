@@ -1,5 +1,12 @@
 # :scroll: [Validador de CPF](https://mateus-stahelin.github.io/validador-cpf/)
 
+<p align="center">
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Notes">Notes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Author">Author</a>&nbsp;&nbsp;&nbsp;
+</p>
+
 ## :floppy_disk: Project
 
 - Página desenvolvida em JavaScript para validação de CPF.
@@ -13,7 +20,7 @@
 - [Gama Academy](https://app.gama.academy/)
 - [Hiring Coders](https://www.hiringcoders.com.br/)
 
-## :tv: NOTES
+## :tv: Notes
 
 - Esta página WEB foi desenvolvida durante o curso Hiring Coders da Gama Academy.
 - O curso tem como objetivo instruir os alunos a desenvolverem plataformas e-comerce.
