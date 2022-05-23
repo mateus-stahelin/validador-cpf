@@ -1,20 +1,20 @@
-# :scroll: [Validador de CPF](https://mateus-stahelin.github.io/validador-cpf/)
+# 📜 [Validador de CPF](https://mateus-stahelin.github.io/validador-cpf/)
 
 <p align="center">
-  <a href="#Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Notes">Notes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Author">Author</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-notes">Notes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-author">Author</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-## :floppy_disk: Project
+## 💾 Project
 
 - Página desenvolvida em JavaScript para validação de CPF.
 - Foram utilizadas as tecnologias: HTML, CSS e JavaScript.
 
 - Acesse o projeto final [aqui](https://mateus-stahelin.github.io/validador-cpf/).
 
-## :computer: Technologies
+## 💻 Technologies
 
 - [HTML](https://www.learn-html.org/)
 - [CSS](https://www.css.org/)
@@ -22,11 +22,11 @@
 - [Gama Academy](https://app.gama.academy/)
 - [Hiring Coders](https://www.hiringcoders.com.br/)
 
-## :tv: Notes
+## 📺 Notes
 
 - Esta página WEB foi desenvolvida durante o curso Hiring Coders da Gama Academy.
 - O curso tem como objetivo instruir os alunos a desenvolverem plataformas e-comerce.
 
-## :mechanical_arm: Author
+## 🦾 Author
 
 Desenvolvido por [Mateus Sagas Stahelin](https://www.linkedin.com/in/mateus-sagas-stahelin-03177275/) em maio de 2022.
