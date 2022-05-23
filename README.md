@@ -12,6 +12,8 @@
 - Página desenvolvida em JavaScript para validação de CPF.
 - Foram utilizadas as tecnologias: HTML, CSS e JavaScript.
 
+- Acesse o projeto final [aqui](https://mateus-stahelin.github.io/validador-cpf/).
+
 ## :computer: Technologies
 
 - [HTML](https://www.learn-html.org/)
