@@ -29,4 +29,4 @@
 
 ## 🦾 Author
 
-Desenvolvido por [Mateus Sagas Stahelin](https://www.linkedin.com/in/mateus-sagas-stahelin-03177275/) em maio de 2022.
+Desenvolvido por [Mateus Sagas Stahelin](https://www.linkedin.com/in/mateus-stahelin/) em maio de 2022.
